@@ -1,0 +1,22 @@
+[
+  {
+    "Name": "Краб",
+    "ImageUrl": "pack://application:,,,/vipief;component/view/Снимок экрана 2024-02-07 132428.png",
+    "IsSelected": true
+  },
+  {
+    "Name": "Пиво",
+    "ImageUrl": "pack://application:,,,/vipief;component/view/Снимок экрана 2024-02-07 132428.png",
+    "IsSelected": true
+  },
+  {
+    "Name": "Мясо",
+    "ImageUrl": "pack://application:,,,/vipief;component/view/Снимок экрана 2024-02-07 132428.png",
+    "IsSelected": true
+  },
+  {
+    "Name": "Рыба",
+    "ImageUrl": "pack://application:,,,/vipief;component/view/Снимок экрана 2024-02-07 132428.png",
+    "IsSelected": true
+  }
+]
